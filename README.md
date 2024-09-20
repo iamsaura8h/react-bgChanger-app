@@ -1,4 +1,4 @@
-# Background Color changing app 
+# Background Color changing app 🔴🔵🟢🟣⚪🟠
 
 its just a independent react component to use it in some other projects.
 
